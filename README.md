@@ -1,7 +1,12 @@
 ### Hi there 👋 I'm Jon!
 
 I'm currently working on my Full Stack Java course at WeCanCodeIT
-I'm currently learning about arrays, constructors, etc. in Java
+I'm currently learning:
+Java
+- Vanilla Java concepts and development
+- Test Driven Development
+- Object Oriented Programming
+
 I'm looking to callaborate/network with other students and developers.
 Fun Fact: I have been riding/racing dirtbikes for about 20 years, which was my first passion and still is a major part of my life to this day. 
 
