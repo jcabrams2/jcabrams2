@@ -5,6 +5,8 @@ I'm currently learning about arrays, constructors, etc. in Java
 I'm looking to callaborate/network with other students and developers.
 Fun Fact: I have been riding/racing dirtbikes for about 20 years, which was my first passion and still is a major part of my life to this day. 
 
+Goals for 2021: Graduate from WeCanCodeIT and find my first job as a Full Stack Java Developer. I'd like to plant myself with a company that I can grow,learn, and progress with long term in my new career field. 
+
 <!--
 **jcabrams2/jcabrams2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
