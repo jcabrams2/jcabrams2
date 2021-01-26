@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Jon!
+
+I'm currently working on my Full Stack Java course at WeCanCodeIT
+I'm currently learning about arrays, constructors, etc. in Java
+I'm looking to callaborate/network with other students and developers.
+Fun Fact: I have been riding/racing dirtbikes for about 20 years, which was my first passion and still is a major part of my life to this day. 
 
 <!--
 **jcabrams2/jcabrams2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
