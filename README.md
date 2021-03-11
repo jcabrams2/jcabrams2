@@ -3,7 +3,7 @@
 I'm currently working on my Full Stack Java course at WeCanCodeIT
 I'm currently learning:
 
-Java
+- Java
 - Vanilla Java concepts and development
 - Test Driven Development
 - Object Oriented Programming
