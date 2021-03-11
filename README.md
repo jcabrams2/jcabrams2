@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Jon!
 
 I'm currently working on my Full Stack Java course at WeCanCodeIT
-I'm currently learning:
+- I'm currently learning:
 
 - Java
 - Vanilla Java concepts and development
