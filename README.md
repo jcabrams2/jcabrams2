@@ -8,12 +8,12 @@ Java
 - Test Driven Development
 - Object Oriented Programming
 
-HTML5
-CSS
-Spring Framework MVC
+- HTML5
+- CSS
+- Spring Framework MVC
 
-JS
-JQuery
+- JS
+- JQuery
 
 I'm looking to callaborate/network with other students and developers.
 
