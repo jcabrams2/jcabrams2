@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Jon!
 
-I am a recent graduate from We Can Code IT's Full-Stack Java program. I am actively searching for my first development opportunity, while continuing to learn and advance my development skills. While maintaining my application process I plan to keep up the learning process by collaborating with other developers on various applications / web apps / etc. I'm always looking for new projects!
+<!-- I am a recent graduate from We Can Code IT's Full-Stack Java program. I am actively searching for my first development opportunity, while continuing to learn and advance my development skills. While maintaining my application process I plan to keep up the learning process by collaborating with other developers on various applications / web apps / etc. I'm always looking for new projects!
 
 Here are my current Languages / Platforms / etc. that I've learned and am continuing to build on:
 
@@ -25,11 +25,11 @@ Front End
  I’m currently learning:
  - React
  - Strapi Framework
- - .Net
-
+ - .Net -->
+<!-- 
 ⚡ Fun facts:
   - I am an Air Force Veteran. I was stationed at Nellis AFB in Las Vegas, NV
-  - I am a Motocross enthusiast/finatic. I've been riding/racing dirtbikes for the majority of my life and continue to this day
+  - I am a Motocross enthusiast/finatic. I've been riding/racing dirtbikes for the majority of my life and continue to this day -->
   
 
 <!--
